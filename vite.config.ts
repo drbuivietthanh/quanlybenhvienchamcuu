@@ -7,7 +7,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/benhvienchamcuu/', // GitHub Pages deployment base path
+  base: '/quanlybenhvienchamcuu/', // GitHub Pages deployment base path
   plugins: [
     react(),
     // Visualizer disabled - causes build hang when opening browser
